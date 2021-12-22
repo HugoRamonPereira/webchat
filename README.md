@@ -6,12 +6,6 @@ Um app de chat com comuicação em tempo real usando [Socket.io](https://socket.
 
 As tecnologias usadas foram:
 
-- HTML
-- CSS
-- Javascript
-- Node.JS
-- Express.JS
-- Socket.io
 <p align="center" justify-content="center">
 <img src="./public/assets/html5.png" width="50">
 <img src="./public/assets/css.png" width="60"/>

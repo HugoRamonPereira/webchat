@@ -43,7 +43,7 @@ npm install
 ```
 usando Yarn
 ```sh
-npm install
+yarn add
 ```
 
 Em seguida precisamos fazer a integração com o backend onde o Socket.io está configurado para que a comunicacão em tempo real seja inicializada.
